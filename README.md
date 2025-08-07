@@ -28,6 +28,5 @@ node server.js
 🎥 Video demo will be added below.
 ---
 
-🎥 Watch Demo Video Below:
+🎥 [Watch Demo Video of This Project](https://screenrec.com/share/kGKaFnE0vx)
 
-[![Watch Video](https://screenrec.com/share/kGKaFnE0vx)]
